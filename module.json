@@ -1,0 +1,28 @@
+{
+    "name": "osto-pr",
+    "author": "Initials",
+    "description": "Removes skill ping on OSTO: skills start the moment you press them.",
+    "version": "1.0.14",
+    "options": {
+        "cliName": "OSTO PR",
+        "guiName": "OSTO PR (ping remover)",
+        "reloadable": true,
+        "settingsVersion": 1,
+        "settingsFile": "module_settings.json",
+        "settingsMigrator": "settings-migrator.js"
+    },
+    "dependencies": {
+        "library": "https://raw.githubusercontent.com/tera-classic-toolbox/library/master/module.json"
+    },
+    "conflicts": [
+        "skill-prediction",
+        "pr-classic",
+        "ping-remover",
+        "ngsp",
+        "psp",
+        "ping-compensation"
+    ],
+    "servers": [
+        "https://raw.githubusercontent.com/auswahlehn/osto-pr-release/main/"
+    ]
+}
