@@ -1,5 +1,7 @@
 # OSTO PR
 
+> **Threads of Time build.** This branch carries the skill data of the Threads of Time test server (reaper, gunner and the new skill ranks). Install it from the `threads` branch; it updates itself from there. It also works on the live server.
+
 Ping remover for OSTO. Skills start the moment you press them instead of
 waiting a round trip for the server.
 
