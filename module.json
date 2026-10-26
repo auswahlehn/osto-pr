@@ -1,11 +1,11 @@
 {
     "name": "osto-pr",
     "author": "Initials",
-    "description": "Removes skill ping on OSTO: skills start the moment you press them.",
-    "version": "1.0.30",
+    "description": "Removes skill ping on OSTO: skills start the moment you press them. For the 115 client toolbox.",
+    "version": "1.0.31-115.1",
     "options": {
         "cliName": "OSTO PR",
-        "guiName": "OSTO PR (ping remover)",
+        "guiName": "OSTO PR (ping remover, 115 client)",
         "reloadable": true,
         "settingsVersion": 1,
         "settingsFile": "module_settings.json",
@@ -23,6 +23,7 @@
         "ping-compensation"
     ],
     "servers": [
-        "https://raw.githubusercontent.com/auswahlehn/osto-pr/main/"
-    ]
+        "https://raw.githubusercontent.com/auswahlehn/osto-pr/115/"
+    ],
+    "protocol": "115.02 (387463)"
 }
