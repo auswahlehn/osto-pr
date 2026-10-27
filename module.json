@@ -2,7 +2,7 @@
     "name": "osto-pr",
     "author": "Initials",
     "description": "Removes skill ping on OSTO: skills start the moment you press them. For the 115 client toolbox.",
-    "version": "1.0.31-115.5",
+    "version": "1.0.31-115.6",
     "options": {
         "cliName": "OSTO PR",
         "guiName": "OSTO PR (ping remover, 115 client, Threads of Time)",
