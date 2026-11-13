@@ -5,7 +5,7 @@
     "version": "1.0.31-115.19",
     "options": {
         "cliName": "OSTO PR",
-        "guiName": "OSTO PR (ping remover, 115 client, Threads of Time)",
+        "guiName": "OSTO PR (ping remover)",
         "reloadable": true,
         "settingsVersion": 1,
         "settingsFile": "module_settings.json",
